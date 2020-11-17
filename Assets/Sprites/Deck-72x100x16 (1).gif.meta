@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 536d9f299bea1e84486c581fd26ca910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4737598243634569441
+    second: Deck-72x100x16 (1)_0
+  - first:
+      213: -4380817351457090008
+    second: Deck-72x100x16 (1)_1
+  - first:
+      213: 3661512099801215061
+    second: Deck-72x100x16 (1)_2
+  - first:
+      213: 3012938961618122820
+    second: Deck-72x100x16 (1)_3
+  - first:
+      213: -8928476544872317689
+    second: Deck-72x100x16 (1)_4
+  - first:
+      213: 4948059554513059075
+    second: Deck-72x100x16 (1)_5
+  - first:
+      213: 6933493762901571548
+    second: Deck-72x100x16 (1)_6
+  - first:
+      213: 6543942241976227550
+    second: Deck-72x100x16 (1)_7
+  - first:
+      213: -3476696597059018444
+    second: Deck-72x100x16 (1)_8
+  - first:
+      213: 6923039560249485764
+    second: Deck-72x100x16 (1)_9
+  - first:
+      213: 5681693579471827672
+    second: Deck-72x100x16 (1)_10
+  - first:
+      213: 4871095200067826664
+    second: Deck-72x100x16 (1)_11
+  - first:
+      213: -641504411518592822
+    second: Deck-72x100x16 (1)_12
+  - first:
+      213: -6384165689041713864
+    second: Deck-72x100x16 (1)_13
+  - first:
+      213: -3030395644578447967
+    second: Deck-72x100x16 (1)_14
+  - first:
+      213: -2152854982072744568
+    second: Deck-72x100x16 (1)_15
+  - first:
+      213: -8127052196670844475
+    second: Deck-72x100x16 (1)_16
+  - first:
+      213: -8602549025519783125
+    second: Deck-72x100x16 (1)_17
+  - first:
+      213: 6739895068712333886
+    second: Deck-72x100x16 (1)_18
+  - first:
+      213: 450180145912185601
+    second: Deck-72x100x16 (1)_19
+  - first:
+      213: -5808669694654735427
+    second: Deck-72x100x16 (1)_20
+  - first:
+      213: 6479634267419621054
+    second: Deck-72x100x16 (1)_21
+  - first:
+      213: -4166853803675343608
+    second: Deck-72x100x16 (1)_22
+  - first:
+      213: -6473404232002595622
+    second: Deck-72x100x16 (1)_23
+  - first:
+      213: 2095165074618194367
+    second: Deck-72x100x16 (1)_24
+  - first:
+      213: 7838762302106068015
+    second: Deck-72x100x16 (1)_25
+  - first:
+      213: -6332487565058831507
+    second: Deck-72x100x16 (1)_26
+  - first:
+      213: -7253234326896017042
+    second: Deck-72x100x16 (1)_27
+  - first:
+      213: 1858371308500760153
+    second: Deck-72x100x16 (1)_28
+  - first:
+      213: -1840891911304180229
+    second: Deck-72x100x16 (1)_29
+  - first:
+      213: -4702454697964438046
+    second: Deck-72x100x16 (1)_30
+  - first:
+      213: -1155337003628465009
+    second: Deck-72x100x16 (1)_31
+  - first:
+      213: -1003309407635886600
+    second: Deck-72x100x16 (1)_32
+  - first:
+      213: 1199252011357520127
+    second: Deck-72x100x16 (1)_33
+  - first:
+      213: -3526992534151861023
+    second: Deck-72x100x16 (1)_34
+  - first:
+      213: -8723424502207802895
+    second: Deck-72x100x16 (1)_35
+  - first:
+      213: -2709725045115707168
+    second: Deck-72x100x16 (1)_36
+  - first:
+      213: -7150605160019219025
+    second: Deck-72x100x16 (1)_37
+  - first:
+      213: 5118649801829583415
+    second: Deck-72x100x16 (1)_38
+  - first:
+      213: 2033032272903017348
+    second: Deck-72x100x16 (1)_39
+  - first:
+      213: -2119831301448890594
+    second: Deck-72x100x16 (1)_40
+  - first:
+      213: -1345365350993169687
+    second: Deck-72x100x16 (1)_41
+  - first:
+      213: -3063376970060896940
+    second: Deck-72x100x16 (1)_42
+  - first:
+      213: -858435430685441220
+    second: Deck-72x100x16 (1)_43
+  - first:
+      213: -1993724221037213514
+    second: Deck-72x100x16 (1)_44
+  - first:
+      213: 5109474761140855887
+    second: Deck-72x100x16 (1)_45
+  - first:
+      213: 2713517382842851524
+    second: Deck-72x100x16 (1)_46
+  - first:
+      213: -3718577566888014746
+    second: Deck-72x100x16 (1)_47
+  - first:
+      213: -7197565394803663057
+    second: Deck-72x100x16 (1)_48
+  - first:
+      213: 5214564533322693542
+    second: Deck-72x100x16 (1)_49
+  - first:
+      213: -6597040668418282925
+    second: Deck-72x100x16 (1)_50
+  - first:
+      213: 3086369147733210350
+    second: Deck-72x100x16 (1)_51
+  - first:
+      213: -5290984129895292674
+    second: Deck-72x100x16 (1)_52
+  - first:
+      213: 2068204182646044922
+    second: Deck-72x100x16 (1)_53
+  - first:
+      213: -6949315642693870357
+    second: Deck-72x100x16 (1)_54
+  - first:
+      213: 5060617372261280639
+    second: Deck-72x100x16 (1)_55
+  - first:
+      213: 7655104913593392544
+    second: Deck-72x100x16 (1)_56
+  - first:
+      213: -3489427133927527432
+    second: Deck-72x100x16 (1)_57
+  - first:
+      213: 8736523028231202762
+    second: Deck-72x100x16 (1)_58
+  - first:
+      213: -3475686623554285572
+    second: Deck-72x100x16 (1)_59
+  - first:
+      213: -1591035742199898057
+    second: Deck-72x100x16 (1)_60
+  - first:
+      213: 4400634128500890697
+    second: Deck-72x100x16 (1)_61
+  - first:
+      213: 4425223670000671038
+    second: Deck-72x100x16 (1)_62
+  - first:
+      213: 6624398209070815711
+    second: Deck-72x100x16 (1)_63
+  - first:
+      213: -3294678225889662189
+    second: Deck-72x100x16 (1)_64
+  - first:
+      213: -6874843020513504
+    second: Deck-72x100x16 (1)_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deck-72x100x16 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8389d0fbcb3bc10800000000000000
+      internalID: 2068204182646044922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9a25fd321f8f90800000000000000
+      internalID: -6949315642693870357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deck-72x100x16 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe3ac6280139fc0800000000000000
+      internalID: -3489427133927527432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
